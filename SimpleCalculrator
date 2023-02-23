@@ -1,0 +1,17 @@
+const calculrator={
+    plus:function(a, b){
+        alert(a+b);
+    },
+    minus:function(a, b){
+        alert(a-b);
+    },
+    times:function(a, b){
+        alert(a*b);
+    },
+    divide:function(a, b){
+        alert(a/b);
+    },
+    super:function(a, b){
+        alert(a**b);
+    }
+}
